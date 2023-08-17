@@ -8,16 +8,13 @@
 
 /* Home */
 @import "/css/home/introducao.css";
+@import "/css/home/tecnologia.css";
+@import "/css/home/parceiros.css";
+@import "/css/home/depoimento.css";
 
 /* Bicicletas */
 @import "/css/bicicletas/bicicletas-listas.css";
 
-/* Tecnologia */
-@import "/css/home/tecnologia.css";
-
-/* Parceiros */
-@import "/css/home/parceiros.css";
-
-/* Depoimento */
-@import "/css/home/depoimento.css";
+/* Seguros */
+@import "/css/seguros/seguros.css";
 
