@@ -47,6 +47,10 @@
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .parceiros li {
+    padding: 20px;
+  }
+
   .parceiros li:nth-child(3),
   .parceiros li:nth-child(7) {
     border-left: none;
