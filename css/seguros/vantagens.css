@@ -1,5 +1,5 @@
 .vantagens-bg {
-  background: var(--cor-12);
+  background-color: var(--cor-12);
 }
 
 .vantagens {
@@ -13,8 +13,8 @@
 
 .vantagens ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px , max-content));
-  gap: 40px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, max-content));
+  gap: 40px 80px;
 }
 
 .vantagens h3,
@@ -30,8 +30,7 @@
   .vantagens h2 {
     margin-bottom: 40px;
   }
-
-  .vantagens h2 {
+  .vantagens ul {
     gap: 20px;
   }
 }

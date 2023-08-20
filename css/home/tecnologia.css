@@ -34,7 +34,7 @@
   margin-bottom: 20px;
 }
 
-.tecnologia-conteudo a {
+.tecnologia a {
   margin-bottom: 80px;
 }
 
@@ -57,22 +57,18 @@
   .tecnologia-bg {
     box-shadow: initial;
   }
-
   .tecnologia {
     grid-template-columns: 1fr;
   }
-
-  .tecnologia a {
-    margin-bottom: 60px;
-  }
-
   .tecnologia-conteudo {
     padding-top: 60px;
     padding-bottom: 60px;
   }
-
-  .tecnologia-imagem img {
+  .tecnologia-imagem {
     display: none;
+  }
+  .tecnologia a {
+    margin-bottom: 60px;
   }
 }
 
